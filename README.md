@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a software engineer with 2+ years of production experience in fintech, now building at the intersection of **cloud infrastructure** and **applied AI**. I recently graduated with an M.S. in Data Science from UT Arlington and I'm currently working as an AI Research Engineer at SEAR Lab.
+I'm a software engineer with 3+ years of production experience in fintech, now building at the intersection of **cloud infrastructure** and **applied AI**. I recently graduated with an M.S. in Data Science from UT Arlington and I'm currently working as an AI Research Engineer at SEAR Lab.
 
 I like building things that actually work at scale — whether that's ETL pipelines processing 1M+ daily transactions, semantic search systems over 5,000+ research files, or recommendation engines that hit 0.80 Precision@3.
 
